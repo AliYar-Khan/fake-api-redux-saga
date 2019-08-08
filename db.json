@@ -1,0 +1,55 @@
+{
+    "movies":
+     [
+        { 
+            "id": 1, 
+            "name": "The Ghost and the Darkness", 
+            "releaseYear": 1996
+        },
+        { 
+            "id": 2, 
+            "name": "The Blind Side", 
+            "releaseYear": "2009" 
+        },
+        { 
+            "id": 3, 
+            "name": "Star Wars", 
+            "releaseYear": 1977 
+        },
+        { 
+            "id": 4, 
+            "name": "Back to the Future", 
+            "releaseYear":  2007
+        },
+        { 
+            "id": 5, 
+            "name": "Avenger Infinity War", 
+            "releaseYear":  2018
+        },
+        { 
+            "id": 6, 
+            "name": "Arrow", 
+            "releaseYear": 2007  
+        },
+        { 
+            "id": 7, 
+            "name": "Game of thrones", 
+            "releaseYear":  2005
+        },
+        { 
+            "id": 8, 
+            "name": "Red Ridding Hood", 
+            "releaseYear":  2001
+        },
+        { 
+            "id": 9, 
+            "name": "The Matrix", 
+            "releaseYear":  1999
+        },
+        { 
+            "id": 10, 
+            "name": "Avenger The End Game", 
+            "releaseYear":  2019
+        }
+    ]
+}
